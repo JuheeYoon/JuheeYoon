@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm just a student eager to study machine learning and deep learning intensively. My GitHub is still a work in progress and not fully organized, but thank you for visiting!
 <!--
 **JuheeYoon/JuheeYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
